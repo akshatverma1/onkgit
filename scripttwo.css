@@ -3,11 +3,11 @@
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
-            background-color: #d31212;
+            background-color: #eae2b7;
         }
 
         header {
-            background-color: #ffffff;
+            background-color: #003049;
             color: #fff;
             padding: 10px 20px;
             display: flex;
